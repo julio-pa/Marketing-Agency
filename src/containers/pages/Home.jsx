@@ -11,6 +11,7 @@ import BlogList from "../../components/home/BlogList";
 import { useEffect } from "react";
 
 
+
 const Home = () => {
 
   useEffect(() => {
